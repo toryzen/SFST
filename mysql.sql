@@ -1,22 +1,3 @@
-敏捷Scrum框架支持工具
-=======
-Scrum framework support tools
-
-框架：TZN-Framework 0.0.8
-前端：bootstrap3.0
-
-流程:
-1. 填写面板信息
-2. 跳转至面板操作页面(记录下URL)
-3. 每天定期更新
-
-功能:
-1. 排除日期
-2. 实时燃尽图
-3. 导出燃尽图
-
-数据库
-<pre>
 CREATE TABLE `board` (                                                  
           `id` int(11) NOT NULL AUTO_INCREMENT COMMENT 'ID',                    
           `bname` varchar(25) NOT NULL COMMENT '名称',                          
@@ -39,4 +20,3 @@ CREATE TABLE `task` (
           PRIMARY KEY (`id`),                                                      
           KEY `fid` (`fid`)                                                        
         ) ENGINE=InnoDB AUTO_INCREMENT=0 DEFAULT CHARSET=utf8 COMMENT='故事表'  
-</pre>

@@ -1,0 +1,2 @@
+<hr/>
+<div style="text-align:center">Copyright@2014 | Powered by <a target="_blank" href="http://www.toryzen.com">ToryZen</a> | Support by <a target="_blank" href="https://github.com/toryzen/TZNPHP">TZN-Framwork</a></div>
