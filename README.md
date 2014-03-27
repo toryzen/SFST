@@ -1,6 +1,6 @@
-Scrum framework support tools
+敏捷Scrum框架支持工具
 =======
-敏捷开发Scrum框架支持工具
+Scrum framework support tools
 
 框架：TZN-Framework 0.0.7
 前端：bootstrap3.0
@@ -13,6 +13,7 @@ Scrum framework support tools
 功能:
 1. 排除日期
 2. 实时燃尽图
+3. 导出燃尽图
 
 数据库
 <pre>
